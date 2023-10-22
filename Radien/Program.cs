@@ -1,4 +1,5 @@
-﻿namespace Radien
+﻿// Isac Elfstrand SUT23
+namespace Radien
 {
     internal class Program
     {
